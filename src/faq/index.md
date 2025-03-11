@@ -15,7 +15,7 @@ Go to the settings tab. On the left hand pane, scroll down to near the bottom. T
 
 ### How do I find the extension version?
 
-Go to the settings tab. On the left hand pane, select Extensions. You Enabled Extensions will appear on the right hand side with the version number underneath the Extension name. 
+Go to the settings tab. On the left hand pane, select Extensions. You Enabled Extensions will appear on the right hand side with the version number underneath the Extension name.
 (note, images taken from ipad. May look slightly different depending on orientation and device)
 <image>   
 <image>
