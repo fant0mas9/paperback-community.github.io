@@ -27,11 +27,11 @@ Go to the settings tab. On the left hand pane, select Extensions. You Enabled Ex
 <summary>v0.8</summary>
 Currently there are two - ReadAllComics and ReadComicsOnline. Both found in Netsky's Extensions (0.8)
 (The site for ReadAllComics is down. According to X (Twitter), they are working at restoring the site, no eta)
-
+</details>
+<details>
 <summary>v0.9</summary>
 Batcave
 </details>
-
 
 Is there an extension for x,  or I can’t find the extension for x. => have a link to how to search particular channels in discord. Also mention that often the extension does not have a space,. Eg Asura Scans can be found as AsuraScans.
 ==>make sure extension is for right version before installing
