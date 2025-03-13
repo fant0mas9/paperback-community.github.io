@@ -74,3 +74,9 @@ Uploaders Settings
 ### MangaDex - Some titles/chapters that are available on the site are not showing in paperback
 The MangaDex source has it's own content filtering.
 - Settings > Extensions > MangaDex > Content Settings > Content Rating
+
+### MangaBox themed sites (eg Manganato, Mangakakalot, MangaBat) have gaps or splits on the displayed pages
+
+- The site owners switched from paged chapters to now just long strips and because of this they are now cropping images in random sizes. 
+- The only available fix currently is just to read chapters Vertically with no page padding. 
+- Reading horizontal manga horizontally will not work properly for these sites. It is not something that can be resolved at an extension level. 
