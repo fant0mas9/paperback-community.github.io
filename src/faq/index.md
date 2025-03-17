@@ -9,8 +9,9 @@ WIP, markdown, cleanup, images added etc to be done.
 - On the left hand pane, scroll down to near the bottom. The version number will be for example v0.8.9-r28
 
 (note, images taken from ipad. May look slightly different depending on orientation and device)
-<image>   
-<image>
+
+![Selelct Settings](src\faq\Images\Select Settings.png)
+![Paperback Version](src\faq\Images\Paperback version.png)
 
 ### How do I find the extension version?
 
