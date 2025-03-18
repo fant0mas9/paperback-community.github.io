@@ -10,8 +10,8 @@ WIP, markdown, cleanup, images added etc to be done.
 
 (note, images taken from ipad. May look slightly different depending on orientation and device)
 
-![Selelct Settings](src\faq\Images\Select Settings.png)
-![Paperback Version](src\faq\Images\Paperback version.png)
+![Select Settings](Images/Select%20Settings.png)
+![Paperback Version](Images/Paperback%20version.png)
 
 ### How do I find the extension version?
 
