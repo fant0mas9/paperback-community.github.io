@@ -7,6 +7,8 @@ WIP, markdown, cleanup, images added etc to be done.
 
 ### How do I find what version of Paperback I'm using?
 
+<details>
+<summary>v0.8</summary>
 - Go to the Settings tab
 - On the left hand pane, scroll down to near the bottom. The version number will be for example v0.8.9-r28
 
@@ -14,16 +16,40 @@ WIP, markdown, cleanup, images added etc to be done.
 
 ![Select Settings](Images/Select%20Settings.png)
 ![Paperback Version](Images/Paperback%20version.png)
+</details>
+<details>
+<summary>v0.9</summary>
+- At the top of the menu bar, Tap the cog to open Settings
+- The version number can be found above the menus. 
+- The version number will be for example v0.9-r21
+
+{image}
+
+{image}
+</details>
+
+
+
 
 ### How do I find the extension version?
 
+<details>
+<summary>v0.8</summary>
 - Go to the Settings tab
 - On the left hand pane, select Extensions
 - Your Enabled Extensions will appear on the right hand side with the version number underneath the Extension name.
 (note, images taken from ipad. May look slightly different depending on orientation and device)
-<image>
+{image}
 
-<image>
+{image}
+</details>
+<details>
+<summary>v0.9</summary>
+
+{image}
+
+{image}
+</details>
 
 ### Are there any Western Comic extensions?
 
@@ -35,12 +61,34 @@ Currently there are two - ReadAllComics and ReadComicsOnline. Both found in Nets
 <details>
 <summary>v0.9</summary>
 Batcave
+Found here - https://karrot0.github.io/KakarotExtension/0.9/stable/
 </details>
 
-### Is there an extension for x,  or I can’t find the extension for x
+### Is there an extension for x site
+<details>
+<summary>v0.8</summary>
+Discord has a search function. Please use it.
 
-=> have a link to how to search particular channels in discord. Also mention that often the extension does not have a space,. Eg Asura Scans can be found as AsuraScans.
-==>make sure extension is for right version before installing
+To search for an extension you want to search in the relevant repo channel, eg ⁠repos-v08 
+
+For example in the discord search field place -
+
+ in: repos-v08 mangafire
+
+Note that extension names don't have spaces, so for Asura Scans for example it is listed as AsuraScan
+{image}
+
+{image}
+</details>
+<details>
+<summary>v0.9</summary>
+
+{image}
+
+{image}
+</details>
+
+
 
 ## Individual Extensions
 
